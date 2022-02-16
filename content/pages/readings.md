@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ed31a68e-b7c7-3be6-92a0-ea08ac8d2606
 ---
@@ -193,7 +196,7 @@ Chapter 17, pp. 328–31, and pp. 337–46.
 {{< tdopen >}}
 Recombinant DNA 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Chapter 20.
 {{< tdclose >}}
 
@@ -448,7 +451,7 @@ Chapter 19, pp. 388–91; Chapter 26, pp. 550–1; Chapter 20, p. 417; Chapter 2
 {{< tdopen >}}
 Future of Biology 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 21.
 {{< tdclose >}}
 

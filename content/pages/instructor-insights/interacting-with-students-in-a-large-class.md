@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Interacting with Students in a Large Class
 uid: 323a37f2-a2df-53bf-e1bc-25d45d1cdbe1
@@ -39,7 +42,7 @@ Still, it’s frustrating that with 300-400 students in a single semester, I jus
 Meeting a Wide Range of Student Needs
 -------------------------------------
 
-One major challenge with such a large class, especially one in which the students are primarily freshmen, is meeting the students’ diverse needs. MIT freshmen are a smart bunch. They come from high schools where they’ve done very well. Some of them have substantial biology experience in high school and score the maximum score of 5 on the Advanced Placement® biology exam before coming to MIT. Others haven’t had biology since middle school or even elementary school, especially if they’re international students. So we have a whole range of background amongst our students when they enter the class, and that’s a real challenge. We try to meet these diverse needs in several ways.
+One major challenge with such a large class, especially one in which the students are primarily freshmen, is meeting the students’ diverse needs. MIT freshmen are a smart bunch. They come from high schools where they’ve done very well. Some of them have substantial biology experience in high school and score the maximum score of 5 on the Advanced Placement{{< sup "®" >}} biology exam before coming to MIT. Others haven’t had biology since middle school or even elementary school, especially if they’re international students. So we have a whole range of background amongst our students when they enter the class, and that’s a real challenge. We try to meet these diverse needs in several ways.
 
 ### Helping Struggling Students
 

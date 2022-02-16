@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 ---
@@ -64,28 +66,6 @@ None
 
 Every spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![7-013_classroom-1.png]({{< resource_file 5b06731a-7477-822b-85c2-df36929e9dbf >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lectures
-    
-    Lectures took place in one of MIT's largest lecture halls, which seats about 550.
-    
-*   ![7-013_classroom-2.jpg]({{< resource_file 0282275c-5169-e104-bd95-f2fadcef4a9c >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitations
-    
-    Students were each assigned to a recitation group of 20-25 students. Recitations met twice a week in smaller classrooms like this one.
-    
-
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
 Student Information
@@ -103,11 +83,11 @@ Primarily freshman; some sophomores, juniors, seniors, and graduate students.
 
 ### Breakdown by Major
 
-All majors, since all MIT undergraduates are required to take one of the five introductory biology courses. The only alternative to taking introductory biology is passing the [biology Advanced Standing Exam](https://biology.mit.edu/undergraduate/advanced_standing_exam), which is typically passed by less than 5 percent of each year's incoming class. The Advanced Placement® biology exam is not accepted for this requirement.
+All majors, since all MIT undergraduates are required to take one of the five introductory biology courses. The only alternative to taking introductory biology is passing the [biology Advanced Standing Exam](https://biology.mit.edu/undergraduate/advanced_standing_exam), which is typically passed by less than 5 percent of each year's incoming class. The Advanced Placement{{< sup "®" >}} biology exam is not accepted for this requirement.
 
 ### Typical Student Background
 
-Student background spans an enormous range. Some students have substantial biology background, having taken AP® biology or even having conducted biology research as high school students. Others, especially international students, might not have taken biology since elementary or middle school.
+Student background spans an enormous range. Some students have substantial biology background, having taken AP{{< sup "®" >}} biology or even having conducted biology research as high school students. Others, especially international students, might not have taken biology since elementary or middle school.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 

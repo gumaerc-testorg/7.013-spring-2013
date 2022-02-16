@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Problem Sets
 uid: 3a8ff909-02da-833f-eba5-2a84ac9d0281

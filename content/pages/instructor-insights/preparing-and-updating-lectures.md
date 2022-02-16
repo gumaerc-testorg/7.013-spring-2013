@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Preparing and Updating Lectures
 uid: e08674a2-a4ee-4f64-ff5a-39ae60a4a35b

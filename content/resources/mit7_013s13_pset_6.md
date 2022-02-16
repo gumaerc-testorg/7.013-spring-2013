@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding 7.013 problem set 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-013-introductory-biology-spring-2013/8b7e5116946adbf2831171a011a86272_MIT7_013S13_Pset_6.pdf
+file: /media/courses/7-013-introductory-biology-spring-2013/8b7e5116946adbf2831171a011a86272_MIT7_013S13_Pset_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 7.013 Problem Set 6
 uid: 8b7e5116-946a-dbf2-8311-71a011a86272

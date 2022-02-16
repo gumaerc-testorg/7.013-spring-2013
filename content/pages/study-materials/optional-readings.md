@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 126eabb9-a122-2700-d71e-37dc5b9ba54e
 title: Optional Readings
 uid: 0d11f024-0c16-3d98-8ce1-24596123e042
