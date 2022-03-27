@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 126eabb9-a122-2700-d71e-37dc5b9ba54e
 resourcetype: Document
 title: Terms to know- Recombinant DNA Technology
 uid: 0acc4516-e6fc-4885-4ca4-82dd2a052fc1

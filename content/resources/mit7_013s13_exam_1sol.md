@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7dafdaa6-9b7c-cd9c-463b-415218d3d0cc
 resourcetype: Document
 title: Solution Key 7.013 Practice Exam 1
 uid: cc8dca3c-8636-1dd6-a07b-3e947bbb4379

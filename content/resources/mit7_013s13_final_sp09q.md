@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7dafdaa6-9b7c-cd9c-463b-415218d3d0cc
 resourcetype: Document
 title: 7.013 Practice Final Exam
 uid: 2e7a5c7f-348d-b8dc-eb6d-993307d54652

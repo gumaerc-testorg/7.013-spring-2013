@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f7b10119-c869-0de0-c3e3-bfb9302b467b
 resourcetype: Document
 title: Solution Key 7.013 Problem Set 3
 uid: cb6f27f3-e774-16ae-d346-d108237f1686

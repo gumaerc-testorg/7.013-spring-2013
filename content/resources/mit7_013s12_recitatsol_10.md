@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 48d0ccdf-e4b4-c9ed-48e6-c3149ea3b5f2
 resourcetype: Document
 title: Solution Key 7.013 Recitation 10
 uid: d5e8ff7e-5cf7-fec7-d993-6d4c49c3657f

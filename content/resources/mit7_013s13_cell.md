@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 126eabb9-a122-2700-d71e-37dc5b9ba54e
 resourcetype: Document
 title: Terms to know- Cells, Organelles & their role
 uid: 33d6001f-e5c6-b3ff-c4bd-5fd6b69dcbf1
