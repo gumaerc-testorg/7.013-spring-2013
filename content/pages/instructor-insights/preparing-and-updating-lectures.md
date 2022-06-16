@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Hazel Sive describes how she prepares and updates
+  her lectures.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-013-introductory-biology-spring-2013/ce3ae9bb82fbc84fdf459e5e10b50159_kpUg96uZk2M.srt
+file: /courses/7-013-introductory-biology-spring-2013/ce3ae9bb82fbc84fdf459e5e10b50159_kpUg96uZk2M.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

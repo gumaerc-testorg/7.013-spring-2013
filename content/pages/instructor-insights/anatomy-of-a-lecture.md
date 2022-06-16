@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Hazel Sive describes the structure of a lecture
+  in 7.013; how she uses the chalkboard, slides, and handouts; and how she handles
+  student questions.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

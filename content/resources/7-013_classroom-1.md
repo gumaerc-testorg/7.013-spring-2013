@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-013-introductory-biology-spring-2013/5b06731a7477822b85c2df36929e9dbf_7-013_classroom-1.png
+file: /courses/7-013-introductory-biology-spring-2013/5b06731a7477822b85c2df36929e9dbf_7-013_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''

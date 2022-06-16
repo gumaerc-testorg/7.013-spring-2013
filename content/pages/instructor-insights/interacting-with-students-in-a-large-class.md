@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Hazel Sive describes ways in which she communicates
+  with the students, builds individual relationships, and meets diverse student needs.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

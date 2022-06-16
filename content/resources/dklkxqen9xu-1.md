@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-013-introductory-biology-spring-2013/82ae7ccacc898ba8cc2d8d3ad4081fd2_dKLkXQEN9XU.pdf
+file: /courses/7-013-introductory-biology-spring-2013/82ae7ccacc898ba8cc2d8d3ad4081fd2_dKLkXQEN9XU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
