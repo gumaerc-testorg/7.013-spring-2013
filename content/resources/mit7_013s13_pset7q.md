@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/73866394228c3f1e070477fbbe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7.013 Problem Set 7
 uid: 73866394-228c-3f1e-0704-77fbbed4ab8d
 ---
 This resource contains information regarding problem set 7.
-

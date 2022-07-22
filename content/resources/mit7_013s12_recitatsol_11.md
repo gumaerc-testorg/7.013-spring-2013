@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/e4c4f85eb989c0ef92a6d70504
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solution Key 7.013 Recitation 11
 uid: e4c4f85e-b989-c0ef-92a6-d70504ba9b45
 ---
 This file contains information regarding 7.013 recitation 11.
-

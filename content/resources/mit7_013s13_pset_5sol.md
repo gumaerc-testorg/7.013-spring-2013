@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/dfcbaaa85b9107ac55661f5bfc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solution Key 7.013 Problem Set 5
 uid: dfcbaaa8-5b91-07ac-5566-1f5bfcc3d85f
 ---
 This file contains information regarding 7.013 problem set 5.
-

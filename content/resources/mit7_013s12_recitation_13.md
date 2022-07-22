@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/1627922b11242e763bf1245678
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7.013 Recitation 13
 uid: 1627922b-1124-2e76-3bf1-245678fa28e8
 ---
 This file contains information regarding 7.013 recitation 13.
-

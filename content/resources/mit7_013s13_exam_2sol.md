@@ -6,6 +6,7 @@ file: /courses/7-013-introductory-biology-spring-2013/77775716ad7bf53be4df88652c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Solution Key 7.013 Practice Exam 2
 uid: 77775716-ad7b-f53b-e4df-88652cdb916c
 ---
 This file contains information regarding solution key 7.013 practice exam 2.
-

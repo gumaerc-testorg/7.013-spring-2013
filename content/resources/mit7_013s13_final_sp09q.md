@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/2e7a5c7f348db8dceb6d993307
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7.013 Practice Final Exam
 uid: 2e7a5c7f-348d-b8dc-eb6d-993307d54652
 ---
 This resource contains information regarding practice final exam.
-

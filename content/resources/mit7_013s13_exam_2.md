@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2013/57536c5995736eac73499e535e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7.013 Practice Exam 2
 uid: 57536c59-9573-6eac-7349-9e535e0ada61
 ---
 This resource contains information regarding practice Exam 2.
-
