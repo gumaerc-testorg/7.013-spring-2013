@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Diviya Sinha describes how she and the teaching
+  assistants (TAs) prepared for and ran recitations and office hours.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Recitations and Office Hours
 uid: e7e55393-1b25-4ee4-b4e1-2035be010fc3
@@ -9,7 +14,7 @@ uid: e7e55393-1b25-4ee4-b4e1-2035be010fc3
 
 _In this section, Dr. Diviya Sinha describes how she and the teaching assistants (TAs) prepared for and ran recitations and office hours._
 
-Students attend lecture three times per week and [recitation]({{< baseurl >}}/pages/recitations) two times per week. While the students all attend lecture together, they are broken into smaller groups of 20-25 students for recitation. Recitations are led by teaching assistants (TAs), who are either biology graduate students or undergraduate students who did well in 7.013 and have several semesters of experience as graders and/or tutors for 7.013. I typically teach two recitations myself, in part to maintain a good sense of what’s happening, what’s working, and what’s not working.
+Students attend lecture three times per week and {{% resource_link 48d0ccdf-e4b4-c9ed-48e6-c3149ea3b5f2 "recitation" %}} two times per week. While the students all attend lecture together, they are broken into smaller groups of 20-25 students for recitation. Recitations are led by teaching assistants (TAs), who are either biology graduate students or undergraduate students who did well in 7.013 and have several semesters of experience as graders and/or tutors for 7.013. I typically teach two recitations myself, in part to maintain a good sense of what’s happening, what’s working, and what’s not working.
 
 In recitation, we aim to help students get more comfortable with the material presented in lecture. We begin each recitation by reviewing the key concepts that were covered in lecture. For the recitation sections that I teach, I bring notes about what I’m going to cover on each of the four chalkboards in the classroom, and I plan to spend 3-4 minutes per board. After the review, we essentially ask, “What are the points that aren’t making sense, and where do you want to go from here?” We might spend 5 minutes addressing specific questions raised by the students, and then we jump into the recitation questions.
 

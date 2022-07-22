@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Hazel Sive describes the impact of the MITx course,
+  7.00x, on the Spring 2013 offering of 7.013.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Interface with 7.00x
 uid: 710f7fdb-83bb-1a95-fd5b-30961863c607

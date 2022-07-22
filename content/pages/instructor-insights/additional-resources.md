@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Diviya Sinha describes several additional resources
+  available to students in this course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Additional Resources
 uid: 78ab3095-aa12-1565-3215-14c52872fef0
@@ -12,12 +17,12 @@ _In this section, Dr. Diviya Sinha describes several additional resources availa
 Terms to Know
 -------------
 
-Although this course is all about problem solving, students need to know the language of biology in order to understand biology. We maintain lists of “[Terms to Know]({{< baseurl >}}/pages/study-materials/#terms)” that include key terms from every single unit in the course. This is particularly helpful to the students who have never taken biology or who haven’t taken biology in a long time. Once students hear a lecture, they can try to fill in the definitions for the relevant terms so that they understand the language used in each unit.
+Although this course is all about problem solving, students need to know the language of biology in order to understand biology. We maintain lists of “{{% resource_link 126eabb9-a122-2700-d71e-37dc5b9ba54e "Terms to Know" "#terms" %}}” that include key terms from every single unit in the course. This is particularly helpful to the students who have never taken biology or who haven’t taken biology in a long time. Once students hear a lecture, they can try to fill in the definitions for the relevant terms so that they understand the language used in each unit.
 
 Extra Enrichment Material
 -------------------------
 
-We post a range of [extra enrichment material]({{< baseurl >}}/pages/study-materials/#extrastudy) on our course website, purely for enrichment; the students are not responsible for looking at or mastering this material. Sometimes we share news articles that highlight real applications of what they’re learning in class. There are many students who like to view things, so I post lots of videos. If we choose to include something that isn’t very current, it’s usually a classic like Watson and Crick’s work on the DNA helix. I mention these materials in recitations, and sometimes the professors mention the materials during lecture as well.
+We post a range of {{% resource_link 126eabb9-a122-2700-d71e-37dc5b9ba54e "extra enrichment material" "#extrastudy" %}} on our course website, purely for enrichment; the students are not responsible for looking at or mastering this material. Sometimes we share news articles that highlight real applications of what they’re learning in class. There are many students who like to view things, so I post lots of videos. If we choose to include something that isn’t very current, it’s usually a classic like Watson and Crick’s work on the DNA helix. I mention these materials in recitations, and sometimes the professors mention the materials during lecture as well.
 
 Online Student Forum
 --------------------

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Hazel Sive describes the structure of a lecture
+  in 7.013; how she uses the chalkboard, slides, and handouts; and how she handles
+  student questions.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 title: Anatomy of a Lecture
 uid: 29ceafc7-b2c9-ae84-8586-d363e9786162
