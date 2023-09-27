@@ -58,8 +58,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",
-    "Exams with Solutions"
+    "Exams with Solutions",
+    "Instructor Insights"
   ],
-  "site_uid": "9db62f86-b821-4303-82d3-8f13813b109c",
+  "site_uid": "5960ebb1-b5cb-4021-98b8-1a5a78f5276a",
+  "site_short_id": "7.013-spring-2013",
   "title": "Course Metadata"
 }
