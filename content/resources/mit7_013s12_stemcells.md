@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding terms to know- stem cells and
   their implications.
 file: /courses/7-013-introductory-biology-spring-2013/4fd346f918d37de4f1ebcaaad016c55c_MIT7_013S12_StemCells.pdf
+file_size: 80183
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

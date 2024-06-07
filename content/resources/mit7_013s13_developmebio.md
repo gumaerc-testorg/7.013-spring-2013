@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding terms to know- development biology.
 file: /courses/7-013-introductory-biology-spring-2013/5cb9db531da641b778c7e25dbf774234_MIT7_013S13_DevelopmeBio.pdf
+file_size: 91761
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
