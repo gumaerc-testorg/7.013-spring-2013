@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding 7.013 recitation 12.
 file: /courses/7-013-introductory-biology-spring-2013/b251067d247d09c5578793c52d28e1e1_MIT7_013S12_Recitation_12.pdf
+file_size: 231450
 file_type: application/pdf
 learning_resource_types:
 - Recitations

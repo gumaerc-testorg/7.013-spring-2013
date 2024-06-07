@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-013-introductory-biology-spring-2013/48962b10bf530e55f441af26decca598_7-013_stat-students.png
+file_size: 2864
 file_type: image/png
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice final exam solution.
 file: /courses/7-013-introductory-biology-spring-2013/e5d6befe98036ed41f72c0876ae14898_MIT7_013S13_Final_SP09-S.pdf
+file_size: 678135
 file_type: application/pdf
 learning_resource_types:
 - Exams

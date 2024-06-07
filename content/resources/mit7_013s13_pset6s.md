@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 6 solution.
 file: /courses/7-013-introductory-biology-spring-2013/1c08ecf047689289a65e8cc7fb8c41f3_MIT7_013S13_Pset6S.pdf
+file_size: 261529
 file_type: application/pdf
 learning_resource_types:
 - Assignments

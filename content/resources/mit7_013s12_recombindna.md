@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding terms to know- recombinant DNA
   technology.
 file: /courses/7-013-introductory-biology-spring-2013/0acc4516e6fc48854ca482dd2a052fc1_MIT7_013S12_RecombinDNA.pdf
+file_size: 95859
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

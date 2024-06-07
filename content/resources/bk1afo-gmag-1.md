@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-013-introductory-biology-spring-2013/0d82fc0e2344d6e0f5c3c44314c413ec_BK1afo-GMag.pdf
+file_size: 52556
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

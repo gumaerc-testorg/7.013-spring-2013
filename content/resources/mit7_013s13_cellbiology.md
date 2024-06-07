@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding terms to know- cell signaling
   & cell cycle.
 file: /courses/7-013-introductory-biology-spring-2013/f1ab12ee6a67df4b7b178591e85150c4_MIT7_013S13_CellBiology.pdf
+file_size: 92551
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
