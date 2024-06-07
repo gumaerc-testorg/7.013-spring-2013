@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding solution key 7.013 problem set
   4.
 file: /courses/7-013-introductory-biology-spring-2013/355929539b6e24476808f62770dcbe89_MIT7_013S13_Pset_4Sol.pdf
+file_size: 264215
 file_type: application/pdf
 learning_resource_types:
 - Assignments

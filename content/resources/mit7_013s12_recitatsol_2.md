@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding solution key 7.013 recitation
   2.
 file: /courses/7-013-introductory-biology-spring-2013/9219da74e4d9bc12a99ff512b0164058_MIT7_013S12_RecitatSol_2.pdf
+file_size: 194877
 file_type: application/pdf
 learning_resource_types:
 - Recitations

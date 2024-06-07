@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding 7.013 problem set 1.
 file: /courses/7-013-introductory-biology-spring-2013/e2855fafed6e34e606eb63749df0e2f8_MIT7_013S13_Pset_1.pdf
+file_size: 554401
 file_type: application/pdf
 learning_resource_types:
 - Assignments
