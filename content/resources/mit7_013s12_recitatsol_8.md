@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 7.013 recitation 8.
-file: /courses/7-013-introductory-biology-spring-2013/c3d399e61fe45ad216fd4102b339aab8_MIT7_013S12_RecitatSol_8.pdf
+file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/c3d399e61fe45ad216fd4102b339aab8_MIT7_013S12_RecitatSol_8.pdf
 file_size: 180583
 file_type: application/pdf
 learning_resource_types:
