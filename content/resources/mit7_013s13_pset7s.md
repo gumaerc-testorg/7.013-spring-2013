@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 7 solution.
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/8f6fbd546c0ef7f59d5c0ba22bab4fbe_MIT7_013S13_Pset7S.pdf
+file: /courses/7-013-introductory-biology-spring-2013/8f6fbd546c0ef7f59d5c0ba22bab4fbe_MIT7_013S13_Pset7S.pdf
 file_size: 325169
 file_type: application/pdf
 learning_resource_types:

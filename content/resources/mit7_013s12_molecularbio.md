@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding terms to know- molecular biology.
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/b0748d0a9b18f31a5fb425bc8a6eae2e_MIT7_013S12_MolecularBio.pdf
+file: /courses/7-013-introductory-biology-spring-2013/b0748d0a9b18f31a5fb425bc8a6eae2e_MIT7_013S12_MolecularBio.pdf
 file_size: 102752
 file_type: application/pdf
 learning_resource_types: []
