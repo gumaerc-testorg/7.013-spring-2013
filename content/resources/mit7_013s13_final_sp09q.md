@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice final exam.
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/2e7a5c7f348db8dceb6d993307d54652_MIT7_013S13_Final_SP09Q.pdf
+file: /courses/7-013-introductory-biology-spring-2013/2e7a5c7f348db8dceb6d993307d54652_MIT7_013S13_Final_SP09Q.pdf
 file_size: 673920
 file_type: application/pdf
 learning_resource_types:

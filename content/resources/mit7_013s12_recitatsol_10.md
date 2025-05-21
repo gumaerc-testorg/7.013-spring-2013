@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding solution key 7.013 recitation
   10.
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/d5e8ff7e5cf7fec7d9936d4c49c3657f_MIT7_013S12_RecitatSol_10.pdf
+file: /courses/7-013-introductory-biology-spring-2013/d5e8ff7e5cf7fec7d9936d4c49c3657f_MIT7_013S12_RecitatSol_10.pdf
 file_size: 233160
 file_type: application/pdf
 learning_resource_types:

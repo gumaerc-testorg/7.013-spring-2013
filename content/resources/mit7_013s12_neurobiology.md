@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding terms to know- neurobiology. '
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/087989c9e2a3edd283fb5c5fc243bc32_MIT7_013S12_Neurobiology.pdf
+file: /courses/7-013-introductory-biology-spring-2013/087989c9e2a3edd283fb5c5fc243bc32_MIT7_013S12_Neurobiology.pdf
 file_size: 89853
 file_type: application/pdf
 learning_resource_types: []

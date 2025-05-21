@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding solution key 7.013 practice
   exam 1.
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/cc8dca3c86361dd6a07b3e947bbb4379_MIT7_013S13_Exam_1Sol.pdf
+file: /courses/7-013-introductory-biology-spring-2013/cc8dca3c86361dd6a07b3e947bbb4379_MIT7_013S13_Exam_1Sol.pdf
 file_size: 261513
 file_type: application/pdf
 learning_resource_types:
