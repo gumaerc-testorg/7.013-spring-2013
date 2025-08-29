@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 7.013 problem set 5.
-file: /courses/7-013-introductory-biology-spring-2013/dfcbaaa85b9107ac55661f5bfcc3d85f_MIT7_013S13_Pset_5Sol.pdf
+file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/dfcbaaa85b9107ac55661f5bfcc3d85f_MIT7_013S13_Pset_5Sol.pdf
 file_size: 335578
 file_type: application/pdf
 learning_resource_types:

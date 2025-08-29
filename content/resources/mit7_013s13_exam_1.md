@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice Exam 1.
-file: /courses/7-013-introductory-biology-spring-2013/225d4b2aea64642edd6b3f0180a6239a_MIT7_013S13_Exam_1.pdf
+file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/225d4b2aea64642edd6b3f0180a6239a_MIT7_013S13_Exam_1.pdf
 file_size: 231468
 file_type: application/pdf
 learning_resource_types:

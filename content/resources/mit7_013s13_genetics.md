@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding terms to know- genetics.
-file: /courses/7-013-introductory-biology-spring-2013/4d38f67e6beac03bafb02175411c785c_MIT7_013S13_Genetics.pdf
+file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2013/4d38f67e6beac03bafb02175411c785c_MIT7_013S13_Genetics.pdf
 file_size: 94760
 file_type: application/pdf
 learning_resource_types: []
