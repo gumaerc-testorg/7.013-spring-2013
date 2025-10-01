@@ -13,7 +13,7 @@ uid: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
 
 This page focuses on the course _7.013 Introduction to Biology_ as it was taught by Professor Hazel Sive, Professor Tyler Jacks, and Dr. Diviya Sinha in Spring 2013.
 
-At MIT, all undergraduate students are required to take introductory biology. 7.013 is one of the [five versions of introductory biology](http://student.mit.edu/catalog/m7a.html) that satisfy this requirement. All five versions cover a common core of material (biochemistry, genetics, molecular biology, cell biology, and recombinant DNA technology). Each class has a particular focus; 7.013's special focus topics are genomic approaches to human disorders, neuroscience, development, and repair.
+At MIT, all undergraduate students are required to take introductory biology. 7.013 is one of the {{% resource_link "499cbffc-bc3d-4b66-af30-cc357946f995" "five versions of introductory biology" %}} that satisfy this requirement. All five versions cover a common core of material (biochemistry, genetics, molecular biology, cell biology, and recombinant DNA technology). Each class has a particular focus; 7.013's special focus topics are genomic approaches to human disorders, neuroscience, development, and repair.
 
 ## Course Outcomes
 
@@ -27,7 +27,7 @@ At MIT, all undergraduate students are required to take introductory biology. 7.
 
 ### Possibilities for Further Study and Future Careers
 
-Students from this course go into many different majors, but it is estimated that at least half of them end up majoring in an area with a life sciences focus and/or conducting undergraduate research in a life sciences based lab. There are [13 majors based in the life sciences](http://lifesciences.scripts.mit.edu/undergraduate/index.php) at MIT, and almost half of on-campus research is life sciences based.
+Students from this course go into many different majors, but it is estimated that at least half of them end up majoring in an area with a life sciences focus and/or conducting undergraduate research in a life sciences based lab. There are {{% resource_link "46fe4c0b-b944-4ab3-941f-cf7e2f2fd6cc" "13 majors based in the life sciences" %}} at MIT, and almost half of on-campus research is life sciences based.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -58,7 +58,7 @@ None
 ### Requirements Satisfied
 
 - GIR ![](/images/educator/icon-question-gir.png)
-- [Chemical Engineering Ph.D. biology requirement](https://cheme.mit.edu/academics/graduate-students/graduate-programs/phdscd-program/)
+- {{% resource_link "8ffda04a-0804-4630-b0f0-536c3fdfb55c" "Chemical Engineering Ph.D. biology requirement" %}}
 
 ### Offered
 
@@ -78,7 +78,7 @@ Primarily freshman; some sophomores, juniors, seniors, and graduate students.
 
 ### Breakdown by Major
 
-All majors, since all MIT undergraduates are required to take one of the five introductory biology courses. The only alternative to taking introductory biology is passing the [biology Advanced Standing Exam](https://biology.mit.edu/undergraduate/advanced_standing_exam), which is typically passed by less than 5 percent of each year's incoming class. The Advanced Placement{{< sup "®" >}} biology exam is not accepted for this requirement.
+All majors, since all MIT undergraduates are required to take one of the five introductory biology courses. The only alternative to taking introductory biology is passing the {{% resource_link "11304e39-bc05-4c8f-9ff5-53e5a9642629" "biology Advanced Standing Exam" %}}, which is typically passed by less than 5 percent of each year's incoming class. The Advanced Placement{{< sup "®" >}} biology exam is not accepted for this requirement.
 
 ### Typical Student Background
 
